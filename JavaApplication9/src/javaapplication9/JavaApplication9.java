@@ -10,7 +10,7 @@ public class JavaApplication9 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Buenas noches");
+        System.out.println("Buenos dias");
     }
 
 }
